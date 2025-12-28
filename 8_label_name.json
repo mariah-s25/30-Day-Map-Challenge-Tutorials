@@ -1,0 +1,22 @@
+{
+    "1": {
+        "1": "Incoherent Fabric",
+        "2": "Coherent Fabric"
+    },
+    "2": {
+        "1": "Incoherent Large-Scale Fabric",
+        "2": "Incoherent Small-Scale Fabric",
+        "3": "Coherent Interconnected Fabric",
+        "4": "Coherent Dense Fabric"
+    },
+    "3": {
+        "1": "Incoherent Large-Scale Homogeneous Fabric",
+        "2": "Incoherent Large-Scale Heterogeneous Fabric",
+        "3": "Incoherent Small-Scale Linear Fabric",
+        "4": "Incoherent Small-Scale Sparse Fabric",
+        "5": "Incoherent Small-Scale Compact Fabric",
+        "6": "Coherent Interconnected Fabric",
+        "7": "Coherent Dense Disjoint Fabric",
+        "8": "Coherent Dense Adjacent Fabric"
+    }
+}
